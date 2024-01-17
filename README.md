@@ -22,8 +22,7 @@ Open the Tableau workbook provided in the project and connect Tableau to your SQ
 - Percent Population Infected per Country: This graph will display the percentage of the population infected by COVID in each country, offering a country-wise perspective.
 - Projected Percent Population Infected: This graph will provide a projection of the percentage of the population that might be infected by COVID in the future, based on the available data.
   
-5. Here is the link to my Tableau dashboard:
-   <!--- https://tabsoft.co/3QBRbuZ>
+### 5. Here is the link to my Tableau dashboard: https://tabsoft.co/3QBRbuZ
      
 ## Dependencies
 The following dependencies are required to run this project:
