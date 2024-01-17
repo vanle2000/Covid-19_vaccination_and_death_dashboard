@@ -1,0 +1,607 @@
+location,vaccine,year,total_vaccinations
+Argentina,CanSino,2021,12957439
+Argentina,CanSino,2022,260415458
+Argentina,CanSino,2023,17802697
+Argentina,Moderna,2021,428211017
+Argentina,Moderna,2022,3635398466
+Argentina,Moderna,2023,6520891456
+Argentina,Moderna,2024,221617750
+Argentina,Oxford/AstraZeneca,2020,1
+Argentina,Oxford/AstraZeneca,2021,3373813128
+Argentina,Oxford/AstraZeneca,2022,8365020647
+Argentina,Oxford/AstraZeneca,2023,1285549030
+Argentina,Pfizer/BioNTech,2021,283975296
+Argentina,Pfizer/BioNTech,2022,6145642121
+Argentina,Pfizer/BioNTech,2023,7263678991
+Argentina,Pfizer/BioNTech,2024,227637620
+Argentina,Sinopharm/Beijing,2020,1
+Argentina,Sinopharm/Beijing,2021,3304063437
+Argentina,Sinopharm/Beijing,2022,10379504998
+Argentina,Sinopharm/Beijing,2023,7184637387
+Argentina,Sputnik Light,2023,3036848
+Argentina,Sputnik V,2020,104489
+Argentina,Sputnik V,2021,3353564073
+Argentina,Sputnik V,2022,6804413645
+Argentina,Sputnik V,2023,1204006734
+Austria,Johnson&Johnson,2021,8368942
+Austria,Johnson&Johnson,2022,19133030
+Austria,Johnson&Johnson,2023,3685367
+Austria,Moderna,2021,35736724
+Austria,Moderna,2022,84153583
+Austria,Moderna,2023,43295754
+Austria,Novavax,2021,0
+Austria,Novavax,2022,492190
+Austria,Novavax,2023,389357
+Austria,Oxford/AstraZeneca,2021,54819147
+Austria,Oxford/AstraZeneca,2022,73283129
+Austria,Oxford/AstraZeneca,2023,20712187
+Austria,Pfizer/BioNTech,2021,285900643
+Austria,Pfizer/BioNTech,2022,794034737
+Austria,Pfizer/BioNTech,2023,436539208
+Austria,Sanofi/GSK,2021,0
+Austria,Sanofi/GSK,2022,70
+Austria,Sanofi/GSK,2023,5620
+Austria,Valneva,2021,0
+Austria,Valneva,2022,21906
+Austria,Valneva,2023,55094
+Belgium,Johnson&Johnson,2021,11151618
+Belgium,Johnson&Johnson,2022,22261962
+Belgium,Johnson&Johnson,2023,6000947
+Belgium,Moderna,2021,45122938
+Belgium,Moderna,2022,221719974
+Belgium,Moderna,2023,92175641
+Belgium,Novavax,2021,0
+Belgium,Novavax,2022,85956
+Belgium,Novavax,2023,25498
+Belgium,Oxford/AstraZeneca,2021,91570117
+Belgium,Oxford/AstraZeneca,2022,85477208
+Belgium,Oxford/AstraZeneca,2023,2849295
+Belgium,Pfizer/BioNTech,2021,394556569
+Belgium,Pfizer/BioNTech,2022,976866345
+Belgium,Pfizer/BioNTech,2023,767945515
+Bulgaria,Johnson&Johnson,2021,6487098
+Bulgaria,Johnson&Johnson,2022,26967199
+Bulgaria,Johnson&Johnson,2023,16462684
+Bulgaria,Moderna,2021,10367603
+Bulgaria,Moderna,2022,25883830
+Bulgaria,Moderna,2023,9726691
+Bulgaria,Oxford/AstraZeneca,2021,13950183
+Bulgaria,Oxford/AstraZeneca,2022,4785214
+Bulgaria,Pfizer/BioNTech,2021,53030653
+Bulgaria,Pfizer/BioNTech,2022,152247996
+Bulgaria,Pfizer/BioNTech,2023,108236154
+Canada,Johnson&Johnson,2021,43359
+Canada,Johnson&Johnson,2022,482344
+Canada,Medicago,2022,2246
+Canada,Moderna,2021,401735677
+Canada,Moderna,2022,577002687
+Canada,Novavax,2022,171656
+Canada,Oxford/AstraZeneca,2021,81772102
+Canada,Oxford/AstraZeneca,2022,61846506
+Canada,Pfizer/BioNTech,2020,58513
+Canada,Pfizer/BioNTech,2021,1205471667
+Canada,Pfizer/BioNTech,2022,1393841749
+Chile,CanSino,2021,0
+Chile,Moderna,2022,0
+Chile,Oxford/AstraZeneca,2021,104323221
+Chile,Oxford/AstraZeneca,2022,50488443
+Chile,Pfizer/BioNTech,2020,22606
+Chile,Pfizer/BioNTech,2021,1557286355
+Chile,Pfizer/BioNTech,2022,1919957664
+Chile,Sinovac,2021,5380350072
+Chile,Sinovac,2022,6169856944
+Croatia,Johnson&Johnson,2021,3010591
+Croatia,Johnson&Johnson,2022,10539080
+Croatia,Johnson&Johnson,2023,6576579
+Croatia,Moderna,2021,11840505
+Croatia,Moderna,2022,26676657
+Croatia,Moderna,2023,13179771
+Croatia,Novavax,2022,28692
+Croatia,Novavax,2023,2751
+Croatia,Oxford/AstraZeneca,2021,20167467
+Croatia,Oxford/AstraZeneca,2022,22743986
+Croatia,Oxford/AstraZeneca,2023,2843279
+Croatia,Pfizer/BioNTech,2021,84778579
+Croatia,Pfizer/BioNTech,2022,206191435
+Croatia,Pfizer/BioNTech,2023,143895501
+Cyprus,Johnson&Johnson,2021,593819
+Cyprus,Johnson&Johnson,2022,1527786
+Cyprus,Johnson&Johnson,2023,527672
+Cyprus,Moderna,2021,2832996
+Cyprus,Moderna,2022,8264129
+Cyprus,Moderna,2023,1416668
+Cyprus,Novavax,2022,8263
+Cyprus,Novavax,2023,1801
+Cyprus,Oxford/AstraZeneca,2021,8599630
+Cyprus,Oxford/AstraZeneca,2022,1781617
+Cyprus,Pfizer/BioNTech,2021,25419553
+Cyprus,Pfizer/BioNTech,2022,64345336
+Cyprus,Pfizer/BioNTech,2023,33185470
+Czechia,Covaxin,2021,28
+Czechia,Johnson&Johnson,2021,48277090
+Czechia,Johnson&Johnson,2022,119032817
+Czechia,Johnson&Johnson,2023,40965506
+Czechia,Moderna,2021,220509960
+Czechia,Moderna,2022,569374405
+Czechia,Moderna,2023,206814636
+Czechia,Novavax,2021,1347
+Czechia,Novavax,2022,2204123
+Czechia,Novavax,2023,111072
+Czechia,Oxford/AstraZeneca,2021,202889773
+Czechia,Oxford/AstraZeneca,2022,51431367
+Czechia,Pfizer/BioNTech,2020,34380
+Czechia,Pfizer/BioNTech,2021,2191010966
+Czechia,Pfizer/BioNTech,2022,5380715526
+Czechia,Pfizer/BioNTech,2023,3415216219
+Czechia,Sinopharm/Beijing,2021,1945
+Czechia,Sinopharm/Beijing,2022,755
+Czechia,Sinovac,2021,28545
+Czechia,Sinovac,2022,3872
+Czechia,Sputnik V,2021,113
+Czechia,Sputnik V,2022,51
+Czechia,Valneva,2022,6
+Denmark,Johnson&Johnson,2021,1336191
+Denmark,Johnson&Johnson,2022,2086948
+Denmark,Johnson&Johnson,2023,591185
+Denmark,Moderna,2020,1
+Denmark,Moderna,2021,31652865
+Denmark,Moderna,2022,88564716
+Denmark,Moderna,2023,24764325
+Denmark,Oxford/AstraZeneca,2021,6888270
+Denmark,Oxford/AstraZeneca,2022,5445995
+Denmark,Oxford/AstraZeneca,2023,466895
+Denmark,Pfizer/BioNTech,2020,12
+Denmark,Pfizer/BioNTech,2021,222944694
+Denmark,Pfizer/BioNTech,2022,553017713
+Denmark,Pfizer/BioNTech,2023,367698191
+Ecuador,CanSino,2021,49635141
+Ecuador,CanSino,2022,14306362
+Ecuador,Oxford/AstraZeneca,2021,444688851
+Ecuador,Oxford/AstraZeneca,2022,122113725
+Ecuador,Pfizer/BioNTech,2021,1120732580
+Ecuador,Pfizer/BioNTech,2022,232511489
+Ecuador,Sinovac,2021,2039227348
+Ecuador,Sinovac,2022,437697226
+Estonia,Johnson&Johnson,2021,1530296
+Estonia,Johnson&Johnson,2022,4066077
+Estonia,Johnson&Johnson,2023,1581339
+Estonia,Moderna,2021,4651024
+Estonia,Moderna,2022,11825065
+Estonia,Moderna,2023,7822852
+Estonia,Novavax,2022,54640
+Estonia,Novavax,2023,19455
+Estonia,Oxford/AstraZeneca,2021,8918167
+Estonia,Oxford/AstraZeneca,2022,2857312
+Estonia,Oxford/AstraZeneca,2023,476241
+Estonia,Pfizer/BioNTech,2021,33544794
+Estonia,Pfizer/BioNTech,2022,80036712
+Estonia,Pfizer/BioNTech,2023,57200259
+European Union,Covaxin,2020,0
+European Union,Covaxin,2021,27191
+European Union,Covaxin,2022,59147
+European Union,Covaxin,2023,51343
+European Union,Johnson&Johnson,2020,0
+European Union,Johnson&Johnson,2021,2896996108
+European Union,Johnson&Johnson,2022,6788797046
+European Union,Johnson&Johnson,2023,5683563057
+European Union,Moderna,2020,142
+European Union,Moderna,2021,12389308678
+European Union,Moderna,2022,54342681014
+European Union,Moderna,2023,47095957837
+European Union,Novavax,2020,0
+European Union,Novavax,2021,54584
+European Union,Novavax,2022,73394539
+European Union,Novavax,2023,93797506
+European Union,Oxford/AstraZeneca,2020,16
+European Union,Oxford/AstraZeneca,2021,15693901030
+European Union,Oxford/AstraZeneca,2022,24512853751
+European Union,Oxford/AstraZeneca,2023,20417929618
+European Union,Pfizer/BioNTech,2020,675945
+European Union,Pfizer/BioNTech,2021,90035684615
+European Union,Pfizer/BioNTech,2022,226492180927
+European Union,Pfizer/BioNTech,2023,201199955139
+European Union,Sanofi/GSK,2020,0
+European Union,Sanofi/GSK,2021,611
+European Union,Sanofi/GSK,2022,2401
+European Union,Sanofi/GSK,2023,1447346
+European Union,Sinopharm/Beijing,2020,0
+European Union,Sinopharm/Beijing,2021,543529613
+European Union,Sinopharm/Beijing,2022,843115078
+European Union,Sinopharm/Beijing,2023,705435840
+European Union,Sinovac,2020,0
+European Union,Sinovac,2021,1889393
+European Union,Sinovac,2022,3724417
+European Union,Sinovac,2023,3150555
+European Union,Sputnik V,2020,0
+European Union,Sputnik V,2021,465439522
+European Union,Sputnik V,2022,673571771
+European Union,Sputnik V,2023,561002512
+European Union,Valneva,2020,0
+European Union,Valneva,2021,0
+European Union,Valneva,2022,466689
+European Union,Valneva,2023,2992877
+Finland,Johnson&Johnson,2021,0
+Finland,Moderna,2021,26501960
+Finland,Moderna,2022,95872174
+Finland,Moderna,2023,8273906
+Finland,Novavax,2021,0
+Finland,Oxford/AstraZeneca,2021,19017616
+Finland,Oxford/AstraZeneca,2022,6093058
+Finland,Pfizer/BioNTech,2021,191610554
+Finland,Pfizer/BioNTech,2022,505351877
+Finland,Pfizer/BioNTech,2023,277785656
+Finland,Valneva,2021,0
+France,Johnson&Johnson,2020,0
+France,Johnson&Johnson,2021,203765866
+France,Johnson&Johnson,2022,374931335
+France,Johnson&Johnson,2023,75281131
+France,Moderna,2020,0
+France,Moderna,2021,2129471029
+France,Moderna,2022,8584317731
+France,Moderna,2023,4487460112
+France,Novavax,2020,0
+France,Novavax,2022,7653352
+France,Novavax,2023,6756480
+France,Oxford/AstraZeneca,2020,0
+France,Oxford/AstraZeneca,2021,1899332581
+France,Oxford/AstraZeneca,2022,400893375
+France,Oxford/AstraZeneca,2023,7863058
+France,Pfizer/BioNTech,2020,8458
+France,Pfizer/BioNTech,2021,16056699237
+France,Pfizer/BioNTech,2022,41327582892
+France,Pfizer/BioNTech,2023,23149540895
+France,Sanofi/GSK,2020,0
+France,Sanofi/GSK,2022,1038
+France,Sanofi/GSK,2023,640817
+Germany,Johnson&Johnson,2020,0
+Germany,Johnson&Johnson,2021,621062384
+Germany,Johnson&Johnson,2022,1295968194
+Germany,Johnson&Johnson,2023,267040245
+Germany,Moderna,2020,39
+Germany,Moderna,2021,2271642434
+Germany,Moderna,2022,11181346769
+Germany,Moderna,2023,2589991933
+Germany,Novavax,2020,0
+Germany,Novavax,2022,38488358
+Germany,Novavax,2023,12443777
+Germany,Oxford/AstraZeneca,2020,6
+Germany,Oxford/AstraZeneca,2021,3081051182
+Germany,Oxford/AstraZeneca,2022,2713153490
+Germany,Oxford/AstraZeneca,2023,64015353
+Germany,Pfizer/BioNTech,2020,523465
+Germany,Pfizer/BioNTech,2021,18819553227
+Germany,Pfizer/BioNTech,2022,48619896396
+Germany,Pfizer/BioNTech,2023,13404026557
+Germany,Valneva,2020,0
+Germany,Valneva,2022,299564
+Germany,Valneva,2023,505367
+Hong Kong,Pfizer/BioNTech,2021,996910661
+Hong Kong,Pfizer/BioNTech,2022,3573830365
+Hong Kong,Pfizer/BioNTech,2023,2542743109
+Hong Kong,Sinovac,2021,628097024
+Hong Kong,Sinovac,2022,2535486048
+Hong Kong,Sinovac,2023,1895298298
+Hungary,Johnson&Johnson,2021,5739613
+Hungary,Johnson&Johnson,2022,17679052
+Hungary,Johnson&Johnson,2023,11410263
+Hungary,Moderna,2021,26505977
+Hungary,Moderna,2022,52328916
+Hungary,Moderna,2023,6475227
+Hungary,Oxford/AstraZeneca,2021,44703626
+Hungary,Oxford/AstraZeneca,2022,21297195
+Hungary,Pfizer/BioNTech,2021,213775990
+Hungary,Pfizer/BioNTech,2022,497646729
+Hungary,Pfizer/BioNTech,2023,332542152
+Hungary,Sinopharm/Beijing,2021,79458720
+Hungary,Sinopharm/Beijing,2022,119920825
+Hungary,Sinopharm/Beijing,2023,32413622
+Hungary,Sputnik V,2021,56236105
+Iceland,Johnson&Johnson,2022,1543
+Iceland,Moderna,2022,169979
+Iceland,Oxford/AstraZeneca,2022,1
+Iceland,Pfizer/BioNTech,2022,4200838
+Ireland,Johnson&Johnson,2021,6471335
+Ireland,Johnson&Johnson,2022,9906888
+Ireland,Johnson&Johnson,2023,1692063
+Ireland,Moderna,2021,18370988
+Ireland,Moderna,2022,74502154
+Ireland,Moderna,2023,36452369
+Ireland,Novavax,2021,140
+Ireland,Novavax,2022,18954
+Ireland,Novavax,2023,19735
+Ireland,Oxford/AstraZeneca,2021,40316921
+Ireland,Oxford/AstraZeneca,2022,58502625
+Ireland,Oxford/AstraZeneca,2023,7313727
+Ireland,Pfizer/BioNTech,2021,168346464
+Ireland,Pfizer/BioNTech,2022,442391115
+Ireland,Pfizer/BioNTech,2023,333935941
+Italy,Johnson&Johnson,2021,309257656
+Italy,Johnson&Johnson,2022,167332565
+Italy,Johnson&Johnson,2023,13576682
+Italy,Moderna,2020,41
+Italy,Moderna,2021,2223571396
+Italy,Moderna,2022,11922058445
+Italy,Moderna,2023,7386872205
+Italy,Novavax,2022,7450885
+Italy,Novavax,2023,4179615
+Italy,Oxford/AstraZeneca,2021,2391264107
+Italy,Oxford/AstraZeneca,2022,48698258
+Italy,Pfizer/BioNTech,2020,80975
+Italy,Pfizer/BioNTech,2021,13102312761
+Italy,Pfizer/BioNTech,2022,32950874686
+Italy,Pfizer/BioNTech,2023,29036756306
+Italy,Sanofi/GSK,2023,6721
+Japan,Moderna,2021,4397815539
+Japan,Moderna,2022,23432461902
+Japan,Moderna,2023,10493783340
+Japan,Novavax,2022,35659756
+Japan,Novavax,2023,38182663
+Japan,Oxford/AstraZeneca,2021,9775103
+Japan,Oxford/AstraZeneca,2022,23814142
+Japan,Pfizer/BioNTech,2021,25516705235
+Japan,Pfizer/BioNTech,2022,81784088131
+Japan,Pfizer/BioNTech,2023,37791573258
+Latvia,Johnson&Johnson,2021,32538853
+Latvia,Johnson&Johnson,2022,49662155
+Latvia,Moderna,2020,23
+Latvia,Moderna,2021,65550525
+Latvia,Moderna,2022,124651453
+Latvia,Novavax,2022,21310
+Latvia,Oxford/AstraZeneca,2020,1
+Latvia,Oxford/AstraZeneca,2021,56742107
+Latvia,Oxford/AstraZeneca,2022,4978199
+Latvia,Pfizer/BioNTech,2020,7010
+Latvia,Pfizer/BioNTech,2021,217040230
+Latvia,Pfizer/BioNTech,2022,304053924
+Latvia,Sinopharm/Beijing,2021,356
+Latvia,Sinovac,2021,38
+Liechtenstein,Johnson&Johnson,2021,1616
+Liechtenstein,Johnson&Johnson,2022,1538
+Liechtenstein,Moderna,2021,1020203
+Liechtenstein,Moderna,2022,1674595
+Liechtenstein,Moderna,2023,388725
+Liechtenstein,Novavax,2022,1
+Liechtenstein,Pfizer/BioNTech,2021,463575
+Liechtenstein,Pfizer/BioNTech,2022,768075
+Liechtenstein,Pfizer/BioNTech,2023,179886
+Lithuania,Johnson&Johnson,2021,5218372
+Lithuania,Johnson&Johnson,2022,14749681
+Lithuania,Johnson&Johnson,2023,5030329
+Lithuania,Moderna,2021,8668323
+Lithuania,Moderna,2022,17062621
+Lithuania,Moderna,2023,4613526
+Lithuania,Oxford/AstraZeneca,2021,18127087
+Lithuania,Oxford/AstraZeneca,2022,6974354
+Lithuania,Pfizer/BioNTech,2021,74114912
+Lithuania,Pfizer/BioNTech,2022,171938439
+Lithuania,Pfizer/BioNTech,2023,117752122
+Luxembourg,Johnson&Johnson,2021,1094774
+Luxembourg,Johnson&Johnson,2022,1616056
+Luxembourg,Johnson&Johnson,2023,124482
+Luxembourg,Moderna,2021,2523727
+Luxembourg,Moderna,2022,16494273
+Luxembourg,Moderna,2023,6501316
+Luxembourg,Novavax,2022,16022
+Luxembourg,Novavax,2023,1990
+Luxembourg,Oxford/AstraZeneca,2021,3046681
+Luxembourg,Pfizer/BioNTech,2021,16881775
+Luxembourg,Pfizer/BioNTech,2022,36976556
+Luxembourg,Pfizer/BioNTech,2023,23116382
+Malta,Johnson&Johnson,2021,848185
+Malta,Johnson&Johnson,2022,1163460
+Malta,Johnson&Johnson,2023,32421
+Malta,Moderna,2021,1960436
+Malta,Moderna,2022,11554490
+Malta,Moderna,2023,7252606
+Malta,Oxford/AstraZeneca,2021,8133137
+Malta,Oxford/AstraZeneca,2022,8201488
+Malta,Oxford/AstraZeneca,2023,1595092
+Malta,Pfizer/BioNTech,2021,18645439
+Malta,Pfizer/BioNTech,2022,37520067
+Malta,Pfizer/BioNTech,2023,20919642
+Nepal,Johnson&Johnson,2022,372834981
+Nepal,Moderna,2022,615428364
+Nepal,Oxford/AstraZeneca,2022,1284544487
+Nepal,Pfizer/BioNTech,2022,44394919
+Nepal,Sinopharm/Beijing,2022,2062568632
+Netherlands,Johnson&Johnson,2021,21144459
+Netherlands,Johnson&Johnson,2022,38899703
+Netherlands,Johnson&Johnson,2023,21774477
+Netherlands,Moderna,2021,62030366
+Netherlands,Moderna,2022,433265554
+Netherlands,Moderna,2023,181630435
+Netherlands,Novavax,2021,0
+Netherlands,Novavax,2022,96837
+Netherlands,Novavax,2023,122587
+Netherlands,Oxford/AstraZeneca,2021,73307096
+Netherlands,Pfizer/BioNTech,2021,513359706
+Netherlands,Pfizer/BioNTech,2022,1178565189
+Netherlands,Pfizer/BioNTech,2023,842916952
+Norway,Johnson&Johnson,2021,189090
+Norway,Johnson&Johnson,2022,302550
+Norway,Johnson&Johnson,2023,37165
+Norway,Moderna,2021,38031666
+Norway,Moderna,2022,119568570
+Norway,Moderna,2023,62294322
+Norway,Oxford/AstraZeneca,2021,6438996
+Norway,Oxford/AstraZeneca,2022,6961325
+Norway,Oxford/AstraZeneca,2023,1333790
+Norway,Pfizer/BioNTech,2021,191104379
+Norway,Pfizer/BioNTech,2022,473711677
+Norway,Pfizer/BioNTech,2023,344473403
+Peru,Moderna,2022,938114170
+Peru,Moderna,2023,2302687997
+Peru,Oxford/AstraZeneca,2021,348955527
+Peru,Oxford/AstraZeneca,2022,2192483090
+Peru,Pfizer/BioNTech,2021,3244502951
+Peru,Pfizer/BioNTech,2022,16442012621
+Peru,Pfizer/BioNTech,2023,18357693654
+Peru,Sinopharm/Beijing,2021,1963731300
+Peru,Sinopharm/Beijing,2022,7580772623
+Peru,Sinopharm/Beijing,2023,5921364997
+Poland,Johnson&Johnson,2021,56686461
+Poland,Johnson&Johnson,2022,140327368
+Poland,Johnson&Johnson,2023,95564668
+Poland,Moderna,2021,105123859
+Poland,Moderna,2022,191905370
+Poland,Moderna,2023,134611873
+Poland,Novavax,2021,87
+Poland,Novavax,2022,517219
+Poland,Novavax,2023,473397
+Poland,Oxford/AstraZeneca,2021,181849891
+Poland,Oxford/AstraZeneca,2022,190520522
+Poland,Oxford/AstraZeneca,2023,21169346
+Poland,Pfizer/BioNTech,2021,894239924
+Poland,Pfizer/BioNTech,2022,2057371406
+Poland,Pfizer/BioNTech,2023,1469384082
+Portugal,Covaxin,2021,3522
+Portugal,Covaxin,2022,1979
+Portugal,Covaxin,2023,162
+Portugal,Johnson&Johnson,2021,27823199
+Portugal,Johnson&Johnson,2022,59238641
+Portugal,Johnson&Johnson,2023,23941353
+Portugal,Moderna,2021,55238518
+Portugal,Moderna,2022,188481773
+Portugal,Moderna,2023,72392144
+Portugal,Novavax,2021,5400
+Portugal,Novavax,2022,5383
+Portugal,Novavax,2023,264
+Portugal,Oxford/AstraZeneca,2021,74317863
+Portugal,Oxford/AstraZeneca,2022,118592158
+Portugal,Oxford/AstraZeneca,2023,45636108
+Portugal,Pfizer/BioNTech,2021,318123186
+Portugal,Pfizer/BioNTech,2022,834797422
+Portugal,Pfizer/BioNTech,2023,595709378
+Portugal,Sanofi/GSK,2021,3
+Portugal,Sanofi/GSK,2022,7
+Portugal,Sanofi/GSK,2023,490
+Portugal,Sinopharm/Beijing,2021,109018
+Portugal,Sinopharm/Beijing,2022,237783
+Portugal,Sinopharm/Beijing,2023,34908
+Portugal,Sinovac,2021,270336
+Portugal,Sinovac,2022,472285
+Portugal,Sinovac,2023,49983
+Romania,Johnson&Johnson,2021,198002692
+Romania,Johnson&Johnson,2022,329616695
+Romania,Moderna,2021,198374431
+Romania,Moderna,2022,161851875
+Romania,Oxford/AstraZeneca,2021,186099180
+Romania,Oxford/AstraZeneca,2022,16990792
+Romania,Pfizer/BioNTech,2020,21764
+Romania,Pfizer/BioNTech,2021,2192724442
+Romania,Pfizer/BioNTech,2022,2063095418
+Slovakia,Johnson&Johnson,2021,2438072
+Slovakia,Johnson&Johnson,2022,9442216
+Slovakia,Johnson&Johnson,2023,4101780
+Slovakia,Moderna,2021,16194561
+Slovakia,Moderna,2022,33794607
+Slovakia,Moderna,2023,8178783
+Slovakia,Novavax,2022,126367
+Slovakia,Oxford/AstraZeneca,2021,23245064
+Slovakia,Oxford/AstraZeneca,2022,3377150
+Slovakia,Pfizer/BioNTech,2021,111817400
+Slovakia,Pfizer/BioNTech,2022,265426746
+Slovakia,Pfizer/BioNTech,2023,119480206
+Slovakia,Sputnik V,2021,384757
+Slovakia,Sputnik V,2022,37993
+Slovenia,Johnson&Johnson,2021,2979547
+Slovenia,Johnson&Johnson,2022,4061180
+Slovenia,Johnson&Johnson,2023,947779
+Slovenia,Moderna,2021,6353128
+Slovenia,Moderna,2022,10019950
+Slovenia,Moderna,2023,1903442
+Slovenia,Novavax,2022,5619
+Slovenia,Novavax,2023,1814
+Slovenia,Oxford/AstraZeneca,2021,11142565
+Slovenia,Oxford/AstraZeneca,2022,4176995
+Slovenia,Oxford/AstraZeneca,2023,963951
+Slovenia,Pfizer/BioNTech,2021,46905014
+Slovenia,Pfizer/BioNTech,2022,115503471
+Slovenia,Pfizer/BioNTech,2023,55973138
+Slovenia,Sanofi/GSK,2023,1
+South Africa,Johnson&Johnson,2022,2426056246
+South Africa,Pfizer/BioNTech,2022,7473538016
+South Korea,Johnson&Johnson,2021,274189517
+South Korea,Johnson&Johnson,2022,433100145
+South Korea,Johnson&Johnson,2023,174359091
+South Korea,Moderna,2021,1301065658
+South Korea,Moderna,2022,4267760969
+South Korea,Moderna,2023,107431760
+South Korea,Novavax,2021,0
+South Korea,Novavax,2022,63382109
+South Korea,Novavax,2023,37004634
+South Korea,Oxford/AstraZeneca,2021,3573757553
+South Korea,Oxford/AstraZeneca,2022,2223909945
+South Korea,Oxford/AstraZeneca,2023,20035346
+South Korea,Pfizer/BioNTech,2021,6008243828
+South Korea,Pfizer/BioNTech,2022,18966271214
+South Korea,Pfizer/BioNTech,2023,7412571964
+South Korea,SKYCovione,2021,0
+South Korea,SKYCovione,2022,23668
+South Korea,SKYCovione,2023,33636
+Spain,Johnson&Johnson,2021,56516940
+Spain,Johnson&Johnson,2022,45589653
+Spain,Johnson&Johnson,2023,1982210
+Spain,Moderna,2021,267416222
+Spain,Moderna,2022,1229530493
+Spain,Moderna,2023,536174822
+Spain,Oxford/AstraZeneca,2021,324053400
+Spain,Oxford/AstraZeneca,2022,166534713
+Spain,Oxford/AstraZeneca,2023,29388513
+Spain,Pfizer/BioNTech,2021,1550305266
+Spain,Pfizer/BioNTech,2022,3501472796
+Spain,Pfizer/BioNTech,2023,2680780787
+Sweden,Moderna,2021,49779383
+Sweden,Moderna,2022,198768226
+Sweden,Moderna,2023,41501268
+Sweden,Novavax,2021,0
+Sweden,Novavax,2022,199512
+Sweden,Novavax,2023,21168
+Sweden,Oxford/AstraZeneca,2021,25065267
+Sweden,Pfizer/BioNTech,2021,319953940
+Sweden,Pfizer/BioNTech,2022,812581970
+Sweden,Pfizer/BioNTech,2023,600799302
+Switzerland,Johnson&Johnson,2020,1
+Switzerland,Johnson&Johnson,2021,2676124
+Switzerland,Johnson&Johnson,2022,18627605
+Switzerland,Johnson&Johnson,2023,5396259
+Switzerland,Moderna,2020,6
+Switzerland,Moderna,2021,1493683838
+Switzerland,Moderna,2022,3488174491
+Switzerland,Moderna,2023,1712220269
+Switzerland,Novavax,2022,173682
+Switzerland,Novavax,2023,358607
+Switzerland,Pfizer/BioNTech,2020,21964
+Switzerland,Pfizer/BioNTech,2021,868394983
+Switzerland,Pfizer/BioNTech,2022,2033783526
+Switzerland,Pfizer/BioNTech,2023,993792269
+Ukraine,Johnson&Johnson,2021,2870786
+Ukraine,Johnson&Johnson,2022,1116720
+Ukraine,Moderna,2021,305656489
+Ukraine,Moderna,2022,158096869
+Ukraine,Oxford/AstraZeneca,2021,528245673
+Ukraine,Oxford/AstraZeneca,2022,216886129
+Ukraine,Pfizer/BioNTech,2021,1075628594
+Ukraine,Pfizer/BioNTech,2022,734456596
+Ukraine,Sinovac,2021,819015517
+Ukraine,Sinovac,2022,515693605
+United States,Johnson&Johnson,2021,3380818644
+United States,Johnson&Johnson,2022,2890039567
+United States,Johnson&Johnson,2023,227676702
+United States,Moderna,2021,38665586378
+United States,Moderna,2022,38082331647
+United States,Moderna,2023,3009001782
+United States,Novavax,2022,847281
+United States,Novavax,2023,931260
+United States,Pfizer/BioNTech,2021,54177014511
+United States,Pfizer/BioNTech,2022,60204984853
+United States,Pfizer/BioNTech,2023,4794342654
+Uruguay,Oxford/AstraZeneca,2021,18729646
+Uruguay,Oxford/AstraZeneca,2022,6448220
+Uruguay,Oxford/AstraZeneca,2023,184335
+Uruguay,Pfizer/BioNTech,2021,386142918
+Uruguay,Pfizer/BioNTech,2022,849469363
+Uruguay,Pfizer/BioNTech,2023,612817590
+Uruguay,Sinovac,2021,693822453
+Uruguay,Sinovac,2022,285953607
+Uruguay,Sinovac,2023,29245914
