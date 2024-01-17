@@ -29,4 +29,4 @@ Make sure you have these dependencies installed and properly configured before r
 
 ## Resources
 The project uses the following resources:
-- [https://covid19.who.int/data data](https://data.who.int/dashboards/covid19/vaccines?n=c)https://data.who.int/dashboards/covid19/vaccines?n=c
+- https://data.who.int/dashboards/covid19/data?n=c
